@@ -1,6 +1,8 @@
 
 # Application de Création de Logo (eLogo)
 
+❤️ SOUTIENS-MOI POUR DES TUTOS DE QUALITÉ (Seulement 2 €/mois) :  https://fr.tipeee.com/faizdev/
+
 Pour un guide pas à pas, consultez la vidéo complète du tutoriel sur YouTube :
 [Regarder le tuto complet](https://youtu.be/gPUjCKo_D64)
 
